@@ -1,4 +1,4 @@
-# 🚀 Git & GitHub Learning Repository
+# 🚀 Git & GitHub Learning
 
 Welcome to my **Git & GitHub Learning Repository!** 🎉 Here, I document my journey in mastering Git and GitHub, focusing on advancing my knowledge in version control, collaboration, and efficient workflows. Many basic but vital Git concepts are often underrated, and this repository aims to highlight them in a structured way.
 
